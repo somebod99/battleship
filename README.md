@@ -15,6 +15,7 @@
 ![image](https://github.com/user-attachments/assets/8d09938f-d3d7-4114-aecd-21ec65e4800e)
 
 После корректной расстановки кораблей в интерфейсе отображается поле противника
+
 ![image](https://github.com/user-attachments/assets/b06e9f8e-ad0a-47ca-9a27-bb10e77d6021)
 
 Далее ожидается подключение противника.
